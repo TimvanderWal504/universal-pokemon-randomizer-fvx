@@ -7,7 +7,7 @@
 | Author/Model     | claude-sonnet-4-6 (Claude Code agent, UPR worker)                    |
 | Repo             | https://github.com/TimvanderWal504/universal-pokemon-randomizer-fvx  |
 | Branch           | upr/UPR-7                                                             |
-| Base commit SHA  | 4d68f8f8 (HEAD at time of writing; skeleton commits will follow)      |
+| Base commit SHA  | e0420cec (HEAD on upr/UPR-7; includes skeleton + ADR)                |
 | Related issues   | UPR-2 (parent epic), UPR-7 (this story), UPR-8 (first consumer)      |
 | Jira epic        | UPR-2 — Phase 1: Walking skeleton — first verified port               |
 
